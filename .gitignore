@@ -5,4 +5,5 @@ logs
 #Node modules directory
 node_modules
 
-
+#Build directory
+dist
