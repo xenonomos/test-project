@@ -1,1 +1,8 @@
+#Logs
+logs
+*.log
+
+#Node modules directory
 node_modules
+
+
