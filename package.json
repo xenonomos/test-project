@@ -1,0 +1,27 @@
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "description": "Test application standing up node from scratch",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xenonomos/test-project.git"
+  },
+  "author": "Xenonomos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xenonomos/test-project/issues"
+  },
+  "homepage": "https://github.com/xenonomos/test-project#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "helmet": "^3.12.0"
+  }
+}
